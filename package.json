@@ -28,7 +28,7 @@
   "dependencies": {
     "angular": "^1.x",
     "d3": "^3.3",
-    "nvd3": "^1.7.1"
+    "nvd3": "github:jrmcpeek/nvd3#multibar-render-fix"
   },
   "devDependencies": {
     "angular-mocks": "^1.x",
